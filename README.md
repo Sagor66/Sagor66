@@ -1,6 +1,6 @@
 ![logo](https://github.com/Sagor66/Sagor66/blob/main/Gidhub%20banner.png)
 <h1 align="center">Hi 👋, I'm Shazzadul Haque</h1>
-<h3 align="center">A passionate Frontend Developer from Bangladesh</h3>
+<h3 align="center">A passionate Frontend Developer from Bangladesh📍</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagor66&label=Profile%20views&color=0e75b6&style=flat" alt="sagor66" /> </p>
 
