@@ -1,28 +1,86 @@
-![logo](https://github.com/Sagor66/Sagor66/blob/main/Gidhub%20banner.png)
-<h1 align="center">Hi 👋, I'm Shazzadul Haque Sagor</h1>
-<h3 align="center">A passionate Frontend Developer from Bangladesh 📍</h3>
+![banner](https://github.com/Sagor66/Sagor66/blob/main/Gidhub%20banner.png)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sagor66&label=Profile%20views&color=0e75b6&style=flat" alt="sagor66" /> </p>
+<h1 align="center">Hi 👋, I'm Sazzadul Haque Sagor</h1>
+<h3 align="center">Full-Stack Developer | Backend & API Specialist | SaaS Product Builder 🇧🇩</h3>
 
-- 👨‍💻 All of my projects are available at [https://64a2aa6604804b77720f85cc--illustrious-torrone-2db0c0.netlify.app/](https://64a2aa6604804b77720f85cc--illustrious-torrone-2db0c0.netlify.app/)
-
-- 📫 How to reach me **sazzadulhaquesagor@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1GVOtIWTY0VzMLTwUVkUm5i4H_yAvtu-6/view?usp=sharing](https://drive.google.com/file/d/1GVOtIWTY0VzMLTwUVkUm5i4H_yAvtu-6/view?usp=sharing)
-
-- ⚡ Fun fact **I prefer dark mode as light attracts bugs**
-
-<h3 align="left">:coffee: Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/shazzadul-haque-73571a222/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shazzadul-haque-73571a222/" height="30" width="40" /></a>
-<a href="https://discord.gg/sagor_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sagor_" height="30" width="40" /></a>
+<p align="center">
+I design and build scalable web applications and APIs that solve real-world problems.  
+I help businesses and teams turn ideas into reliable, high-performance digital products.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sagor66&show_icons=true&locale=en&layout=compact" alt="sagor66" /></p>
+## 🚀 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sagor66&show_icons=true&locale=en" alt="sagor66" /></p>
+- 💻 Full-Stack Developer with **2+ years of experience** building production-grade web apps.
+- 🧠 Strong expertise in **backend architecture, system design, and cloud deployment**.
+- ⚡ Skilled in **Node.js, TypeScript, Next.js, NestJS, AdonisJS, PostgreSQL, MySQL, MongoDB, Docker**.
+- 🎯 Focused on **shipping products, optimizing systems, and delivering value to clients**.
+- 🌍 Available for **remote freelance projects or full-time engineering roles**.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sagor66&" alt="sagor66" /></p>
+---
+
+## 🌟 What I Do / How I Deliver Value
+
+- Build **scalable backend systems** that handle thousands of users.
+- Develop **interactive, responsive frontends** that are maintainable and efficient.
+- Integrate **databases, caching, and APIs** for robust product performance.
+- Deploy **production-ready applications** with Docker, CI/CD, and cloud platforms.
+- Collaborate with teams to **turn business requirements into technical solutions**.
+
+---
+
+## 💡 Why Work With Me
+
+- I write **clean, maintainable, and efficient code** that reduces technical debt.  
+- I **prioritize product impact**, focusing on solutions that actually help users.  
+- I’m **fast to adapt** and can learn new technologies quickly when needed.  
+- I have experience **building both frontend and backend**, making me a versatile engineer.  
+- I focus on **results and reliability**, ensuring systems run smoothly at scale.
+
+---
+
+## 🌐 Portfolio & Contact
+
+- 🌍 Portfolio: [https://64a2aa6604804b77720f85cc--illustrious-torrone-2db0c0.netlify.app/](https://64a2aa6604804b77720f85cc--illustrious-torrone-2db0c0.netlify.app/)
+- 📄 Resume: [View PDF](https://drive.google.com/file/d/1GVOtIWTY0VzMLTwUVkUm5i4H_yAvtu-6/view?usp=sharing)
+- 📫 Email: **sazzadulhaquesagor@gmail.com**
+- 💼 LinkedIn: [https://linkedin.com/in/shazzadul-haque-73571a222/](https://linkedin.com/in/shazzadul-haque-73571a222/)
+- 💬 Discord: **sagor_**
+
+---
+
+## 🧰 Tech Stack
+
+| Category   | Technologies |
+|------------|--------------|
+| **Frontend** | Next.js • React • TypeScript • Tailwind • Redux • HTML • CSS • Sass • Chart.js • Bootstrap |
+| **Backend**  | Node.js • AdonisJS • NestJS • Express • REST APIs • GraphQL • Firebase • Flask • Redis • Docker |
+| **Databases**| PostgreSQL • MySQL • MongoDB • Prisma |
+| **Tools**    | Git • Postman • CI/CD • Linux • Docker • Firebase |
+---
+
+## 📊 GitHub Stats
+<table>
+  <tr align="center">
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sagor66&theme=radical" alt="Sagor66 Profile Stats" width="830"/>
+    </td>
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sagor66&theme=radical&hide=html,css&border_color=000000&card_width=350" alt="Sagor66 Language Stats" width="398"/>
+    </td>
+  </tr>
+</table>
+
+<!-- <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sagor66&show_icons=true&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagor66&layout=compact&hide_border=true" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sagor66&hide_border=true"/>
+</p> -->
+
+---
+
+⭐️ From [Sagor66](https://github.com/Sagor66)
