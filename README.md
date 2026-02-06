@@ -1,4 +1,9 @@
-![banner](https://github.com/Sagor66/Sagor66/blob/main/Gidhub%20banner.png)
+![banner](https://github.com/Sagor66/Sagor66/blob/main/Github%20Banner.png)
+
+<!--
+v1 ![banner](https://github.com/Sagor66/Sagor66/blob/main/Gidhub%20banner.png)
+-->
+
 
 <h1 align="center">Hi 👋, I'm Sazzadul Haque Sagor</h1>
 <h3 align="center">Full-Stack Developer | Backend & API Specialist | SaaS Product Builder 🇧🇩</h3>
