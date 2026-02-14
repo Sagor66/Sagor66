@@ -48,7 +48,7 @@ I help businesses and teams turn ideas into reliable, high-performance digital p
 ## 🌐 Portfolio & Contact
 
 - 🌍 Portfolio: [https://shazzad-dev.vercel.app/](https://shazzad-dev.vercel.app/)
-- 📄 Resume: [View PDF](https://drive.google.com/file/d/1GVOtIWTY0VzMLTwUVkUm5i4H_yAvtu-6/view?usp=sharing)
+- 📄 Resume: [View PDF](https://drive.google.com/file/d/1RVZfgA5toMmGeFhw5tyMoQUVaKvmaJC6/view?usp=sharing)
 - 📫 Email: **sazzadulhaquesagor@gmail.com**
 - 💼 LinkedIn: [https://linkedin.com/in/shazzadul-haque-73571a222/](https://linkedin.com/in/shazzadul-haque-73571a222/)
 - 💬 Discord: **sagor_**
